@@ -20,3 +20,7 @@ void func1(void){
 	thingy++;
 	printf("thingy 为%d，count为%d\n", thingy, count);
 }
+
+void func2(void){
+	static
+}
